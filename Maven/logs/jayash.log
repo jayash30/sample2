@@ -1,0 +1,19 @@
+[INFO ] 2023-01-05 09:25:21.744 [main] l1 - visited website
+[INFO ] 2023-01-05 09:25:21.752 [main] l1 - going to click n checkboxes
+[WARN ] 2023-01-05 09:25:21.807 [main] l1 - check box may not be visible
+[INFO ] 2023-01-05 09:25:25.238 [main] l1 - closing
+[INFO ] 2023-01-05 09:28:47.631 [main] l2 - visited website
+[INFO ] 2023-01-05 09:28:47.665 [main] l2 - going to click on scroller
+[INFO ] 2023-01-05 09:28:51.137 [main] l2 - closing
+[INFO ] 2023-01-05 09:29:41.528 [main] l2 - visited website
+[INFO ] 2023-01-05 09:29:41.560 [main] l2 - clicking on scroller
+[INFO ] 2023-01-05 09:29:42.074 [main] l2 - moving scroller to a point
+[INFO ] 2023-01-05 09:29:45.081 [main] l2 - closing
+[INFO ] 2023-01-06 08:48:28.919 [main] l3 - visited website
+[INFO ] 2023-01-06 08:48:28.932 [main] l3 - going to clickon scroll
+[WARN ] 2023-01-06 08:48:28.982 [main] l3 - Linktext may not be visible
+[INFO ] 2023-01-06 08:48:32.998 [main] l3 - closing
+[INFO ] 2023-01-06 08:49:52.522 [main] l3 - visited website
+[INFO ] 2023-01-06 08:49:52.533 [main] l3 - Scroll down
+[WARN ] 2023-01-06 08:49:52.585 [main] l3 - Linktext may not be visible
+[INFO ] 2023-01-06 08:49:56.797 [main] l3 - closing
